@@ -1,6 +1,7 @@
 fn main() {
     // TODO: Change the line below to fix the compiler error.
-    let x: u32;
+    let x = 10;
+
     if x == 10 {
         println!("x is ten!");
     } else {
